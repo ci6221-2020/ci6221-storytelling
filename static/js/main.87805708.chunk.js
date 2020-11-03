@@ -1,0 +1,2 @@
+(this["webpackJsonpci6221-2020-storytelling"]=this["webpackJsonpci6221-2020-storytelling"]||[]).push([[0],{4:function(t,e,n){"use strict";n.r(e);var i=n(2),s=(n(1),n(3)),o=n.n(s),r=Object(i.jsx)("h1",{children:"COVID-19 situation in Singapore"});o.a.render(r,document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.87805708.chunk.js.map
