@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/ci6221-2020-storytelling/static/js/main.7f1296f2.chunk.js",
+    "main.js.map": "/ci6221-2020-storytelling/static/js/main.7f1296f2.chunk.js.map",
+    "runtime-main.js": "/ci6221-2020-storytelling/static/js/runtime-main.537d26a9.js",
+    "runtime-main.js.map": "/ci6221-2020-storytelling/static/js/runtime-main.537d26a9.js.map",
+    "static/js/2.355a1643.chunk.js": "/ci6221-2020-storytelling/static/js/2.355a1643.chunk.js",
+    "static/js/2.355a1643.chunk.js.map": "/ci6221-2020-storytelling/static/js/2.355a1643.chunk.js.map",
+    "index.html": "/ci6221-2020-storytelling/index.html",
+    "static/js/2.355a1643.chunk.js.LICENSE.txt": "/ci6221-2020-storytelling/static/js/2.355a1643.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.537d26a9.js",
+    "static/js/2.355a1643.chunk.js",
+    "static/js/main.7f1296f2.chunk.js"
+  ]
+}
