@@ -20,6 +20,7 @@ body {
   position: relative;
   width: 25%;
   height: 90vh;
+  min-width: 275px;
   min-height: 600px;
   color: #fff;
   overflow: hidden;
