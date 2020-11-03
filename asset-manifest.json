@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.js": "/ci6221-2020-storytelling/static/js/main.3aee0315.chunk.js",
-    "main.js.map": "/ci6221-2020-storytelling/static/js/main.3aee0315.chunk.js.map",
+    "main.css": "/ci6221-2020-storytelling/static/css/main.37d202f3.chunk.css",
+    "main.js": "/ci6221-2020-storytelling/static/js/main.ac625c0d.chunk.js",
+    "main.js.map": "/ci6221-2020-storytelling/static/js/main.ac625c0d.chunk.js.map",
     "runtime-main.js": "/ci6221-2020-storytelling/static/js/runtime-main.537d26a9.js",
     "runtime-main.js.map": "/ci6221-2020-storytelling/static/js/runtime-main.537d26a9.js.map",
-    "static/js/2.355a1643.chunk.js": "/ci6221-2020-storytelling/static/js/2.355a1643.chunk.js",
-    "static/js/2.355a1643.chunk.js.map": "/ci6221-2020-storytelling/static/js/2.355a1643.chunk.js.map",
+    "static/js/2.2b2d4c04.chunk.js": "/ci6221-2020-storytelling/static/js/2.2b2d4c04.chunk.js",
+    "static/js/2.2b2d4c04.chunk.js.map": "/ci6221-2020-storytelling/static/js/2.2b2d4c04.chunk.js.map",
     "index.html": "/ci6221-2020-storytelling/index.html",
-    "static/js/2.355a1643.chunk.js.LICENSE.txt": "/ci6221-2020-storytelling/static/js/2.355a1643.chunk.js.LICENSE.txt"
+    "static/css/main.37d202f3.chunk.css.map": "/ci6221-2020-storytelling/static/css/main.37d202f3.chunk.css.map",
+    "static/js/2.2b2d4c04.chunk.js.LICENSE.txt": "/ci6221-2020-storytelling/static/js/2.2b2d4c04.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.537d26a9.js",
-    "static/js/2.355a1643.chunk.js",
-    "static/js/main.3aee0315.chunk.js"
+    "static/js/2.2b2d4c04.chunk.js",
+    "static/css/main.37d202f3.chunk.css",
+    "static/js/main.ac625c0d.chunk.js"
   ]
 }
