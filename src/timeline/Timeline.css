@@ -143,3 +143,8 @@ body {
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
 }
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
